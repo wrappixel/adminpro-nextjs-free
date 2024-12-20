@@ -6,7 +6,7 @@
 -   **Enhanced User Experience:** Deliver a smooth and responsive user interface with optimized performance, even on slower connections.
 -   **Scalable Architecture:** Build robust and scalable applications with Next.js's flexible and modular architecture.
 
-[Live Preview](https://adminpro-nextjs-main.vercel.app/) [Download AdminPRO](https://www.wrappixel.com/templates/adminpro-tailwind-next-js-admin-template/)
+[Live Preview](https://adminpro-nextjs-main.vercel.app/)     [Download AdminPRO](https://www.wrappixel.com/templates/adminpro-tailwind-next-js-admin-template/)
     
 
 ## Designed for NextJs Admin Panels
